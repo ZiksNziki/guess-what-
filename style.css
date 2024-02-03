@@ -1,0 +1,17 @@
+body{
+  text-align: center;
+  /* background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.sciencealert.com%2Fimages%2F2019-09%2Fblack-hole-sim_1024.gif&f=1&nofb=1); */
+
+  background-image: url(https://cdn.dribbble.com/users/470545/screenshots/3249842/media/fffbdefe5bd879669e0c93f8770ddd57.gif);
+
+  background-position: center;
+  background-size: cover;
+  
+/*   background-repeat: no-repeat; */
+}
+
+h1{
+  padding-top: 30%;
+  font-family: monospace;
+  color: white;
+}
