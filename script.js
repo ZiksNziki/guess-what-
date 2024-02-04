@@ -4,8 +4,7 @@ var songs = ["mine.mp3","boy.mp3"];
 
 var p = Math.floor(Math.random() * songs.length);
 var audio = new Audio(songs[p]);
-  audio.play();
-
+audio.play();
 
 var n = Math.floor(Math.random() * letters.length);
 document.querySelector("button").addEventListener("click", function(){ alert(letters[n]); });
